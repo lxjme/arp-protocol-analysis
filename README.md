@@ -1,7 +1,7 @@
 
 <a name="readme-top"></a>
 
-<p style="display: flex; justify-content: center;">
+<p align="center">
 
 [![GitHub Stars](https://img.shields.io/github/stars/lxjme/arp-protocol-analysis.svg)](https://github.com/lxjme/arp-protocol-analysis/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/lxjme/arp-protocol-analysis.svg)](https://github.com/lxjme/arp-protocol-analysis/network/members)
